@@ -18,7 +18,7 @@ This site showcases:
 
 ## 📍 Live Website
 
-[https://yourname.streamlit.app](https://yourname.streamlit.app) _(replace with your actual URL)_
+[https://eddyblaze7-portfolio-website-portfolio-app-zt6nd2.streamlit.app/]
 
 ## 📫 Contact
 

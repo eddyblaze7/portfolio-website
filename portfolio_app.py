@@ -17,7 +17,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs(["🏠 Home", "📘 About", "💼 Project
 
 with tab1:
     st.header("Welcome!")
-    st.write("I'm Eddy Blaze, a Python Developer focused on building smart, interactive applications using ML, Streamlit, and PyQt.")
+    st.write("I'm Eddy Blaze, a Python Developer focused on building smart, interactive applications using ML, Streamlit, and PyQt6/PySide6.")
     st.write("This site highlights my professional background, skills, and project portfolio.")
 
 with tab2:
